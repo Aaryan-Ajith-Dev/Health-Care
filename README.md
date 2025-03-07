@@ -123,7 +123,7 @@ Run the server like this:
 
 ## Authors
 
-- Aaryan Dev [Aaryan-Ajith-Dev](https://github.com/Aaryan-Ajith-Dev): Backend (Patient and Doctor side)
+- Aaryan Dev [Aaryan-Ajith-Dev](https://github.com/Aaryan-Ajith-Dev): Backend (Patient and Doctor side), integrated Video Call
 - Shreyas S [@Shreyas0S](https://www.github.com/Shreyas0S): Frontend (Doctor Side)
 - Sohith [@sohith18](https://github.com/sohith18): Frontend (Patient Side)
 - Siddharth Reddy [@siddharthmaram](https://github.com/siddharthmaram) (Testing)
